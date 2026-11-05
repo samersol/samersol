@@ -6,11 +6,6 @@ Software Engineer
 
 I've a Software Engineering Degree, with 2 years of experience in the Web Development field. And good knowledge in Deep Learning stuff.
 
-* 🌍  I'm based in Syria
-* ✉️  You can contact me at [solimansamer775@gmail.com](mailto:solimansamer775@gmail.com)
-* 🧠  I'm learning Data Structures
-* 🤝  I'm open to collaborating on Projects
-
 ### Skills
 
 
